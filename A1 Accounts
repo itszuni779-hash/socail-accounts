@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Premium Social Accounts Store</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial,sans-serif;
+}
+
+body{
+background:#0f172a;
+color:white;
+}
+
+header{
+background:linear-gradient(135deg,#2563eb,#7c3aed);
+padding:50px 20px;
+text-align:center;
+}
+
+header h1{
+font-size:42px;
+margin-bottom:10px;
+}
+
+header p{
+font-size:18px;
+opacity:.9;
+}
+
+.telegram-btn{
+display:inline-block;
+margin-top:20px;
+padding:12px 25px;
+background:#22c55e;
+color:white;
+text-decoration:none;
+border-radius:30px;
+font-weight:bold;
+}
+
+.container{
+max-width:1200px;
+margin:auto;
+padding:30px 20px;
+}
+
+.section-title{
+text-align:center;
+font-size:30px;
+margin:40px 0 20px;
+color:#60a5fa;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:20px;
+}
+
+.card{
+background:#1e293b;
+padding:20px;
+border-radius:15px;
+border:1px solid #334155;
+transition:.3s;
+}
+
+.card:hover{
+transform:translateY(-5px);
+border-color:#60a5fa;
+}
+
+.card h3{
+margin-bottom:10px;
+color:#60a5fa;
+}
+
+.status{
+display:inline-block;
+padding:5px 10px;
+background:#16a34a;
+border-radius:20px;
+font-size:12px;
+margin-top:10px;
+}
+
+.buy{
+display:block;
+text-align:center;
+margin-top:15px;
+background:#2563eb;
+padding:10px;
+border-radius:8px;
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+footer{
+text-align:center;
+padding:30px;
+margin-top:40px;
+background:#111827;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>🔥 Premium Social Accounts Store</h1>
+<p>Reddit • TikTok • Instagram Accounts Available</p>
+
+<a class="telegram-btn" href="https://t.me/@Saqisaqi09">
+📩 Contact On Telegram
+</a>
+</header>
+
+<div class="container">
+
+<h2 class="section-title">👽 Reddit Accounts</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Reddit Account #1</h3>
+<p>✅ High Quality</p>
+<p>🔥 5K+ Karma</p>
+<p>📅 2 Years Old</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>Reddit Account #2</h3>
+<p>✅ Aged Account</p>
+<p>🔥 10K+ Karma</p>
+<p>📅 3 Years Old</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>Reddit Account #3</h3>
+<p>✅ Premium Quality</p>
+<p>🔥 20K+ Karma</p>
+<p>📅 5 Years Old</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+</div>
+
+<h2 class="section-title">🎵 TikTok Accounts</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>TikTok Shop USA</h3>
+<p>🇺🇸 USA Seller Account</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>TikTok Shop UK</h3>
+<p>🇬🇧 UK Seller Account</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>TikTok Studio Account</h3>
+<p>🎬 Ready For Content Creation</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>TikTok Business Account</h3>
+<p>📈 Marketing Ready</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>Viral TikTok Account</h3>
+<p>🚀 High Reach Account</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+</div>
+
+<h2 class="section-title">📸 Instagram Accounts</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Instagram Aged Account</h3>
+<p>📅 Old & Trusted</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>Instagram Business</h3>
+<p>📈 Business Ready</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>Instagram Creator</h3>
+<p>🎨 Creator Tools Enabled</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+<div class="card">
+<h3>Instagram High Followers</h3>
+<p>🔥 Premium Audience</p>
+<span class="status">Available</span>
+<a class="buy" href="https://t.me/@Saqisaqi09">Buy Now</a>
+</div>
+
+</div>
+
+</div>
+
+<footer>
+<h3>📩 Telegram: @Saqisaqi09</h3>
+<p>Fast Delivery • Trusted Service • Premium Accounts</p>
+</footer>
+
+</body>
+</html>
